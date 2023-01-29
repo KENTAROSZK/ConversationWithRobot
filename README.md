@@ -1,0 +1,2 @@
+# ConversationWithRobot
+LangChain、Whisper、GoogleTexttoSpeechを使って、会話をするためのPythonコードです。
